@@ -1,3 +1,6 @@
+// This is the same code that is inside the Constants.Broken module.
+// But the .gen.tsx is fine.
+
 module type Config = {
   type t
   let constant: t
